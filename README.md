@@ -1,7 +1,6 @@
 # UsabilityHub
 
 
-# Portfolio Website
 
 Welcome to the repository for my clone of a web designing website! This project aims to replicate the design and functionality of the original website to showcase my skills in web development and design. The clone will serve as a demonstration of my ability to recreate existing web designs.To access the website, click [here](https://ketanchavan24.github.io/UsabilityHub/)
 

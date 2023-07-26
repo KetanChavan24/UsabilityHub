@@ -56,9 +56,7 @@ Customize the portfolio website to make it your own:
 
 2. Modify the CSS styles in the styles.css file to match your preferences and add any additional styling if needed.
 
-3. Implement any interactive elements from the original website (if applicable) using JavaScript or jQuery.
-
-4. Test the responsiveness of the website on various devices to ensure it displays correctly.
+3. Test the responsiveness of the website on various devices to ensure it displays correctly.
 ## Contributing
 
 - Fixing Bugs: If you find any bugs or issues in the clone, create a pull request to resolve them.
